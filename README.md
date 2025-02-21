@@ -15,9 +15,6 @@ Flask (for potential backend integration)
 Weather API (for fetching real-time weather data)
 
 Project Structure
-bash
-Copy
-Edit
 /src
  ├── speech_and_speak.py  # Python script for speech recognition & TTS
  ├── WeatherUpdate.java   # Java class for weather API integration
@@ -27,10 +24,10 @@ Edit
  ├── MainActivity.java    # Android UI component (if applicable)
 Installation & Usage
 
-Clone this repository:
+Clone this repository: https://github.com/haseeb676-sir7/AI-Voice-Assistant-.git
 
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/haseeb676-sir7/AI-Voice-Assistant-.git
+cd AI-Voice-Assistant
 Install Python dependencies:
 
 pip install speechrecognition pyttsx3
@@ -39,6 +36,8 @@ Compile Java files:
 javac *.java
 Run the Python script:python speech_and_speak.py
 Give voice commands to interact with the assistant.
+
+
 Future Enhancements
 ✅ Add AI-powered natural language processing (NLP)
 ✅ Enhance chatbot responses using a local AI model
